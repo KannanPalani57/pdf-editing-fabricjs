@@ -1,7 +1,4 @@
-/**
- * PDFAnnotate v1.0.1
- * Author: Ravisha Heshan
- */
+
 
 
 var PDFAnnotate = function (container_id, url, options = {}) {
